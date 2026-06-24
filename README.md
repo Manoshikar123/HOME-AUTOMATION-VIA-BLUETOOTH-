@@ -39,10 +39,15 @@ Relays control electrical appliances safely.
 - Low cost and easy to build.
 - Energy saving.
 - User-friendly operation.
-- 
+  
 ## Applications
 
 - Smart homes
 - Office automation
 - Industrial control systems
 - Energy management
+  
+## Command
+
+- Send 'A' → Light ON
+- Send 'B' → Light OFF
